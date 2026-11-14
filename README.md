@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://struggl.singandclap.com/favicon.png" height="14"/> [STRUGGL Hybrid Coach](https://github.com/Kubyer/struggl-mcp) - Hybrid strength, running, and Hyrox training ledger with 17-muscle MEV/MAV/MRV volume audits and deterministic sports-science calculators (1RM/RPE, barbell plates, Zone 2 HR, and 8-lap Hyrox splits)
 
 <br />
 
